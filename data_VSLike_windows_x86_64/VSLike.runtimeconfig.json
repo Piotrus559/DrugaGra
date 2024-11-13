@@ -1,14 +1,3 @@
-{
-  "runtimeOptions": {
-    "tfm": "net6.0",
-    "includedFrameworks": [
-      {
-        "name": "Microsoft.NETCore.App",
-        "version": "6.0.35"
-      }
-    ],
-    "configProperties": {
-      "System.Reflection.Metadata.MetadataUpdater.IsSupported": false
-    }
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:98eeccbaaa592fd7f9cfa77745d9cccb11aea0d6d8aa97ad034d661bde3214cd
+size 285
